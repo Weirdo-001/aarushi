@@ -17,3 +17,5 @@ activation function pe no changes yet, kiye the to fell down to 75
 30::7 pe accuarcy is 93.47, drop was 04. instead of 0.5 usual walo ki tarah
 
 30::7 dense 256 instead of 128 aur droput back to 0.5, freezing was :20 instead of 30 in usual cases-92.42 eww
+
+
