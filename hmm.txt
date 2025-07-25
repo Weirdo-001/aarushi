@@ -1,1 +1,9 @@
+//epochs 10 mai 128,128 sh along with 60::5 mai result accuracy is 94.88
+
+//ab epochs is changed to 20
+mobilenet is used, paper mai bhi wahi tha
+
+img-244/160 pe accuracy fell down to 80-85
+
+30::7
 
