@@ -1,9 +1,17 @@
+//inbuilt ki jagah own cnn pe accuarcy fell down to 60
+
 //epochs 10 mai 128,128 sh along with 60::5 mai result accuracy is 94.88
 
 //ab epochs is changed to 20
 mobilenet is used, paper mai bhi wahi tha
 
 img-244/160 pe accuracy fell down to 80-85
+back to 128,128
 
-30::7
+30::7 rest same - 93.93
 
+activation function pe no changes yet, kiye the to fell down to 75
+
+ 15 :: 10 pe bhi fell down to 80
+
+30::7 pe accuarcy is 93.47, drop was 04. instead of 0.5 usual walo ki tarah
